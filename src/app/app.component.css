@@ -1,0 +1,30 @@
+body {
+    
+        background-image: url(../assets/thYBOFYEPQ.jpg);
+        width: auto;
+        height: 200%;
+        
+
+    }
+
+h1{
+    background-color: antiquewhite;
+}
+
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    text-align: left;
+    padding: 8px;
+}
+
+
+
+th {
+    background-color: #4CAF50;
+    color: white;
+}
